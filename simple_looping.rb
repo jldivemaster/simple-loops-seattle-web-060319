@@ -3,13 +3,13 @@
 def loop_iterator(number_of_times)
   loop do
     phrase = "Welcome to Flatiron School's Web Development Course!"
-  end  
+  end
 end
 
 def times_iterator(number_of_times)
-  
+
   phrase = "Welcome to Flatiron School's Web Development Course!"
-  
+
 end
 
 def while_iterator(number_of_times)
@@ -40,4 +40,3 @@ def for_iterator(number_of_times)
     puts phrase
   end
 end
-
